@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "analysing-booking-data-for-major-hotel-chain"
+version = "0.1.0"
+description = "Hotel bookings analysis"
+authors = ["Mahikshit Kurapati <kurapatimahikshit@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10.12"
+tensorflow = "2.16.1"
+ipykernel = "^6.29.3"
+jupyter = "^1.0.0"
+imblearn = "^0.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
