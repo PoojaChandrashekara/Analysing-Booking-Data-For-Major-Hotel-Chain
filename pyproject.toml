@@ -8,10 +8,13 @@ package-mode = false
 
 [tool.poetry.dependencies]
 python = "^3.10.12"
-tensorflow = "2.16.1"
 ipykernel = "^6.29.3"
 jupyter = "^1.0.0"
 imblearn = "^0.0"
+pandas = "^2.2.1"
+matplotlib = "^3.8.3"
+xgboost = "^2.0.3"
+faker = "^24.3.0"
 
 
 
