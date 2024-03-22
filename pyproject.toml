@@ -12,6 +12,9 @@ tensorflow = "2.16.1"
 ipykernel = "^6.29.3"
 jupyter = "^1.0.0"
 imblearn = "^0.0"
+matplotlib = "^3.8.3"
+seaborn = "^0.13.2"
+geopandas = "^0.14.3"
 
 
 
